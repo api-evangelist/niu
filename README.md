@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NIU is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://niu.com/
+NIU is a global brand focused on urban electric mobility, designing, manufacturing and selling smart electric scooters, e‑bikes and related accessories. The company emphasizes technology, style and sustainability, offering a portfolio that includes the NQi, MQi, UQi, RQi, XQi, BQi and KQi series. NIU operates a worldwide dealer network, provides warranty and service support, and maintains a consumer‑focused app for vehicle monitoring and anti‑theft features. Its products target commuters, campus users and recreational riders, aiming to make electric transportation accessible and enjoyable.
+
+**Areas:** electric-vehicles · scooters · e-bikes · mobility · technology · company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://niu.com/)
+- [Support](https://global.niu.com/contact)
+- [Blog](https://global.niu.com/en-us/blog)
+- [Privacy policy](https://global.niu.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/niu/](https://apis.io/providers/niu/).
